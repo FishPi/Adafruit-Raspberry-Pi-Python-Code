@@ -1,5 +1,15 @@
 Adafruit's Raspberry-Pi Python Code Library
 ============
+
+  This is a fork of Adafruit's Python libraries for Raspberry-Pi and BeagleBone Black
+  for the FishPi project.
+  We have forked the repository to have a reliable source for the libraries.
+  There is a PyPi-release that can be installed with pip (```pip install Adafruit-Libraries```),
+  but it does not seem to be updated regularly and contains bugs.
+  
+  Below is the original readme text from Adafruit.
+  
+  
   Here is a growing collection of libraries and example python scripts
   for controlling a variety of Adafruit electronics with a Raspberry Pi
   
